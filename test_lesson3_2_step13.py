@@ -8,7 +8,7 @@ class TestUniqueSelectors(unittest.TestCase):
         from selenium import webdriver
         from selenium.webdriver.common.by import By
         import time
-        link = "http://suninjuly.github.io/registration1.html"
+        link = "http://suninjuly.github.io/registration2.html"
         driver = webdriver.Chrome()
         driver.get(link)
 

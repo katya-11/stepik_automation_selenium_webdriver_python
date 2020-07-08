@@ -21,5 +21,4 @@ try:
 
 finally:
     time.sleep(5)
-    print(welcome_txt)
     driver.quit()
